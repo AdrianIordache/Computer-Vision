@@ -1,0 +1,6 @@
+[submodule "Projects/Sudoku-with-Computer-Vision"]
+	path = Projects/Sudoku-with-Computer-Vision
+	url = https://github.com/AdrianIordache/Sudoku-with-Computer-Vision
+[submodule "Projects/Curling-with-Computer-Vision"]
+	path = Projects/Curling-with-Computer-Vision
+	url = https://github.com/AdrianIordache/Curling-with-Computer-Vision
